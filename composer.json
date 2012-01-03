@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/common": "master-dev",
+        "doctrine/dbal": "master-dev",
+        "doctrine/dbal": "master-dev"
+    }
+}
